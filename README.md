@@ -18,6 +18,8 @@ Use of a [Google Coral Accelerator](https://coral.ai/products/) is optional, but
 - 24/7 recording
 - Re-streaming via RTMP to reduce the number of connections to your camera
 
+- add ARM optimizations for cpu-side detection
+
 ## Documentation
 
 View the documentation at https://docs.frigate.video
